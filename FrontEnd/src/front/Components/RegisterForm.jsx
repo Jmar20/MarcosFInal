@@ -30,7 +30,7 @@ export function RegisterForm() {
 
     } catch (error) {
       console.error('Error al registrar:', error);
-      setError("Error al registrar. Intenta de nuevo."); 
+      setError("Error al registrar, intente de nuevamente."); 
     }
   };
 

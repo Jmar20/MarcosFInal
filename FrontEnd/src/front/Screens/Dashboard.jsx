@@ -2,7 +2,6 @@ import '../Styles/SDashboard.css';
 import '../Styles/inter.css';
 
 import { Navbar } from '../Components/Navbar';
-import { Productview } from './SubScreens/Productview';
 import { Customerview } from './SubScreens/Customerview';
 import { Orderviews } from './SubScreens/Orderviews';
 import { Inventoryview } from './SubScreens/Inventoryview';
